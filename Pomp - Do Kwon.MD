@@ -1,7 +1,7 @@
 #### Pomp – Do Kwon
 
-[apple: ](https://podcasts.apple.com/us/podcast/880-the-%2410-billion-stablecoin-bet-on-the/id1434060078?i=1000555093692)
-[spotify:](https://open.spotify.com/episode/1NRaBX1RmHwB3bK1JkRJCu?si=AQLuMwqGQG-QCg6ptML9OQ)
+[apple](https://podcasts.apple.com/us/podcast/880-the-%2410-billion-stablecoin-bet-on-the/id1434060078?i=1000555093692)
+[spotify](https://open.spotify.com/episode/1NRaBX1RmHwB3bK1JkRJCu?si=AQLuMwqGQG-QCg6ptML9OQ)
  
 #### Terra
 * Issues with existing stablecoins
